@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.thinkxana.hissetxana"
+        versionCode="10" 
+        version   = "1.0.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Hisset</name>
+
+    <description>
+     Fucking Example 
+    </description>
+
+    <author href="https://think.az" email="rufat@think.az   ">
+        Thinker Rufat
+    </author>
+
+</widget>
